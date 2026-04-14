@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz Game</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial;
+      background: #0f172a;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+
+    .box {
+      background: #1e293b;
+      padding: 20px;
+      border-radius: 12px;
+      max-width: 500px;
+      margin: auto;
+      margin-top: 40px;
+    }
+
+    button {
+      display: block;
+      width: 100%;
+      margin-top: 10px;
+      padding: 12px;
+      border: none;
+      border-radius: 8px;
+      background: #00ffcc;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    button:hover {
+      background: #00e6b8;
+    }
+
+    #nextBtn {
+      background: orange;
+      display: none;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h2>🎮 Quiz Engine</h2>
+
+  <div class="box">
+
+    <p id="question">Loading...</p>
+
+    <div id="options"></div>
+
+    <button id="nextBtn" onclick="nextQuestion()">Next</button>
+
+    <p id="score">Score: 0</p>
+
+  </div>
+
+  <script src="quiz.js"></script>
+
+</body>
+</html>
