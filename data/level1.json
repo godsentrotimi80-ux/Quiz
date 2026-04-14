@@ -1,0 +1,444 @@
+[
+  {
+    "question": "What is 2 + 2?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "D"
+  },
+  {
+    "question": "What color is the sky on a clear day?",
+    "A": "Red",
+    "B": "Blue",
+    "C": "Green",
+    "D": "Yellow",
+    "answer": "B"
+  },
+  {
+    "question": "How many days are in a week?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "C"
+  },
+  {
+    "question": "What is 5 + 3?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "Which animal barks?",
+    "A": "Cat",
+    "B": "Dog",
+    "C": "Cow",
+    "D": "Goat",
+    "answer": "B"
+  },
+  {
+    "question": "What is 10 - 4?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "What do we use to see?",
+    "A": "Ear",
+    "B": "Hand",
+    "C": "Eye",
+    "D": "Leg",
+    "answer": "C"
+  },
+  {
+    "question": "What is 3 × 3?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "D"
+  },
+  {
+    "question": "What is the color of banana?",
+    "A": "Blue",
+    "B": "Yellow",
+    "C": "Red",
+    "D": "Black",
+    "answer": "B"
+  },
+  {
+    "question": "How many legs does a human have?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "What is the first letter of the alphabet?",
+    "A": "A",
+    "B": "B",
+    "C": "C",
+    "D": "D",
+    "answer": "A"
+  },
+  {
+    "question": "What is 6 + 2?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "Which is a fruit?",
+    "A": "Car",
+    "B": "Chair",
+    "C": "Apple",
+    "D": "Table",
+    "answer": "C"
+  },
+  {
+    "question": "What is 9 - 3?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "What sound does a cat make?",
+    "A": "Bark",
+    "B": "Moo",
+    "C": "Meow",
+    "D": "Quack",
+    "answer": "C"
+  },
+  {
+    "question": "What is 4 + 4?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "What is 7 - 2?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "Which is a color?",
+    "A": "Car",
+    "B": "Blue",
+    "C": "Table",
+    "D": "Chair",
+    "answer": "B"
+  },
+  {
+    "question": "What is 2 × 5?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "answer": "C"
+  },
+  {
+    "question": "What is 12 - 6?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "C"
+  },
+  {
+    "question": "What do we use to eat?",
+    "A": "Pen",
+    "B": "Spoon",
+    "C": "Book",
+    "D": "Phone",
+    "answer": "B"
+  },
+  {
+    "question": "What is 3 + 6?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "answer": "C"
+  },
+  {
+    "question": "Which is a transport?",
+    "A": "Chair",
+    "B": "Car",
+    "C": "Table",
+    "D": "Book",
+    "answer": "B"
+  },
+  {
+    "question": "What is 10 ÷ 2?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "answer": "C"
+  },
+  {
+    "question": "What is the opposite of hot?",
+    "A": "Warm",
+    "B": "Cold",
+    "C": "Boiling",
+    "D": "Fire",
+    "answer": "B"
+  },
+  {
+    "question": "How many eyes do humans have?",
+    "A": "1",
+    "B": "2",
+    "C": "3",
+    "D": "4",
+    "answer": "B"
+  },
+  {
+    "question": "What is 1 + 7?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "answer": "B"
+  },
+  {
+    "question": "What is 9 + 1?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "answer": "C"
+  },
+  {
+    "question": "Which is a vegetable?",
+    "A": "Apple",
+    "B": "Carrot",
+    "C": "Mango",
+    "D": "Banana",
+    "answer": "B"
+  },
+  {
+    "question": "What is 5 - 1?",
+    "A": "3",
+    "B": "4",
+    "C": "5",
+    "D": "6",
+    "answer": "B"
+  },
+  {
+    "question": "What sound does a dog make?",
+    "A": "Meow",
+    "B": "Bark",
+    "C": "Moo",
+    "D": "Quack",
+    "answer": "B"
+  },
+  {
+    "question": "What is 8 - 3?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "What is 6 - 1?",
+    "A": "4",
+    "B": "5",
+    "C": "6",
+    "D": "7",
+    "answer": "B"
+  },
+  {
+    "question": "Which is used for writing?",
+    "A": "Spoon",
+    "B": "Pen",
+    "C": "Plate",
+    "D": "Cup",
+    "answer": "B"
+  },
+  {
+    "question": "What is 2 + 6?",
+    "A": "7",
+    "B": "8",
+    "C": "9",
+    "D": "10",
+    "answer": "B"
+  }
+    ],
+  {
+    "question": "What is 11 - 5?",
+    "A": "5",
+    "B": "6",
+    "C": "7",
+    "D": "8",
+    "answer": "B"
+  },
+  {
+    "question": "What is 4 × 2?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "Which one is a pet animal?",
+    "A": "Lion",
+    "B": "Tiger",
+    "C": "Dog",
+    "D": "Elephant",
+    "answer": "C"
+  },
+  {
+    "question": "What is 15 - 7?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "What is 3 + 5?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "C"
+  },
+  {
+    "question": "Which is a drink?",
+    "A": "Rice",
+    "B": "Water",
+    "C": "Car",
+    "D": "Book",
+    "answer": "B"
+  },
+  {
+    "question": "What is 20 - 10?",
+    "A": "5",
+    "B": "10",
+    "C": "15",
+    "D": "20",
+    "answer": "B"
+  },
+  {
+    "question": "What is 6 + 6?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13",
+    "answer": "C"
+  },
+  {
+    "question": "Which is a body part?",
+    "A": "Chair",
+    "B": "Table",
+    "C": "Hand",
+    "D": "Book",
+    "answer": "C"
+  },
+  {
+    "question": "What is 7 + 7?",
+    "A": "12",
+    "B": "13",
+    "C": "14",
+    "D": "15",
+    "answer": "C"
+  },
+  {
+    "question": "What is 9 - 2?",
+    "A": "6",
+    "B": "7",
+    "C": "8",
+    "D": "9",
+    "answer": "B"
+  },
+  {
+    "question": "Which one is used for sleeping?",
+    "A": "Chair",
+    "B": "Bed",
+    "C": "Table",
+    "D": "Car",
+    "answer": "B"
+  },
+  {
+    "question": "What is 8 + 1?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "answer": "B"
+  },
+  {
+    "question": "What is 10 + 10?",
+    "A": "10",
+    "B": "15",
+    "C": "20",
+    "D": "25",
+    "answer": "C"
+  },
+  {
+    "question": "Which is a fruit?",
+    "A": "Carrot",
+    "B": "Tomato",
+    "C": "Apple",
+    "D": "Cabbage",
+    "answer": "C"
+  },
+  {
+    "question": "What is 14 - 4?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "answer": "C"
+  },
+  {
+    "question": "What is 5 × 2?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "answer": "C"
+  },
+  {
+    "question": "Which is used for transport?",
+    "A": "Book",
+    "B": "Car",
+    "C": "Pen",
+    "D": "Chair",
+    "answer": "B"
+  },
+  {
+    "question": "What is 3 × 4?",
+    "A": "10",
+    "B": "11",
+    "C": "12",
+    "D": "13",
+    "answer": "C"
+  },
+  {
+    "question": "What is 18 - 8?",
+    "A": "8",
+    "B": "9",
+    "C": "10",
+    "D": "11",
+    "answer": "C"
+  }
+]
+]
