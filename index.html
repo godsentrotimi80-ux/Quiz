@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz Hustle</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial;
+      height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background: linear-gradient(135deg, #ff6a00, #ee0979, #00c6ff, #7b2ff7);
+      background-size: 400% 400%;
+      animation: gradientBG 10s ease infinite;
+      color: white;
+      text-align: center;
+    }
+
+    @keyframes gradientBG {
+      0% {background-position: 0% 50%;}
+      50% {background-position: 100% 50%;}
+      100% {background-position: 0% 50%;}
+    }
+
+    .box {
+      background: rgba(0,0,0,0.4);
+      padding: 30px;
+      border-radius: 15px;
+      width: 80%;
+      max-width: 400px;
+    }
+
+    h1 {
+      font-size: 32px;
+      margin-bottom: 10px;
+    }
+
+    p {
+      font-size: 16px;
+      margin-bottom: 20px;
+    }
+
+    button {
+      padding: 12px 20px;
+      border: none;
+      border-radius: 8px;
+      background: #00ffcc;
+      color: black;
+      font-size: 16px;
+      cursor: pointer;
+      margin-top: 10px;
+    }
+
+    button:hover {
+      background: #00e6b8;
+    }
+  </style>
+
+</head>
+
+<body>
+
+  <div class="box">
+    <h1>🎮 Quiz Hustle</h1>
+    <p>Learn. Play. Earn Data 📶</p>
+
+    <button onclick="start()">Start Quiz</button>
+  </div>
+
+  <script>
+    function start() {
+      window.location.href = "app.html";
+    }
+  </script>
+
+</body>
+</html>
