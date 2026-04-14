@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Quiz Dashboard</title>
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial;
+      background: #0f172a;
+      color: white;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .box {
+      background: #1e293b;
+      padding: 25px;
+      border-radius: 12px;
+      width: 90%;
+      max-width: 400px;
+      text-align: center;
+    }
+
+    h2 {
+      color: #00ffcc;
+    }
+
+    button {
+      padding: 12px;
+      width: 100%;
+      margin-top: 10px;
+      border: none;
+      border-radius: 8px;
+      background: #00ffcc;
+      font-size: 16px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background: #00e6b8;
+    }
+  </style>
+</head>
+
+<body>
+
+  <div class="box">
+    <h2>🎮 Dashboard</h2>
+
+    <p id="user">Loading user...</p>
+    <p id="level"></p>
+    <p id="points"></p>
+
+    <button onclick="startQuiz()">Start Quiz</button>
+  </div>
+
+  <script>
+    // get user data from signup (localStorage)
+    let user = JSON.parse(localStorage.getItem("currentUser"));
+
+    if (!user) {
+      alert("No user found. Redirecting...");
+      window.location.href = "index.html";
+    }
+
+    document.getElementById("user").innerText = "User: " + user.username;
+    document.getElementById("points").innerText = "Points: " + user.points;
+
+    let levelText = "";
+
+    if (user.level == "1") levelText = "Level 1 (Primary)";
+    if (user.level == "2") levelText = "Level 2 (JSS)";
+    if (user.level == "3") levelText = "Level 3 (SSS)";
+
+    document.getElementById("level").innerText = "Level: " + levelText;
+
+    function startQuiz() {
+      window.location.href = "quiz.html";
+    }
+  </script>
+
+</body>
+</html>
